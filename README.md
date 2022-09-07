@@ -19,3 +19,6 @@
   
   ![image](https://user-images.githubusercontent.com/109961309/188317416-f9b6b7f9-9702-4272-b1b2-1dcd22bf5f96.png)
 
+* In smaller screen:-
+
+![image](https://user-images.githubusercontent.com/109961309/188841024-05f44d72-1d54-498f-86d3-5c88e72b9642.png)
